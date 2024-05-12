@@ -1,0 +1,71 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+
+}
+
+.timer {
+    background-color: aliceblue;
+    font-size: 60px;
+    padding: 10px;
+    margin: 0 10px;
+    width: 100px;
+    border-radius: 20px;
+    font-family: 'HighlandGothiclightFLF';
+    color: #290974;
+
+}
+.title {
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: 'HighlandGothicFLF';
+}
+
+.tempat {
+    color: #89ee05;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-bottom: -10px;
+}
+.tanggal{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+.timer-info {
+    color: aliceblue;
+    padding: 10px;
+    margin: 0 10px;
+    width: 100px;
+    font-family: 'HighlandGothiclightFLF';
+}
+.button {
+    color: #290974;
+    background-color: yellow;
+    padding: 10px 35px;
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo {
+   
+    width: 80px;
+    height: 80px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: #68cf06;
+    margin: 8px;
+}
